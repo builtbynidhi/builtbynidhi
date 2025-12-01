@@ -22,6 +22,7 @@ const nidhii = {
   learning: ["Django", "FastAPI", "Flask"],
   challenge: "Building AI-integrated full-stack apps"
 }
+```
 
 
 # 💫 About Me:
