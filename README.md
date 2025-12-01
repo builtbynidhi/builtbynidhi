@@ -22,7 +22,7 @@ const nidhii = {
   challenge: "Building AI-integrated full-stack apps"
 }
 
-
+-----
 
 # 💫 About Me:
 <br><br>🔭 I’m currently working on<br>I build production-ready web apps using the MERN stack (MongoDB, Express, React, Node). Right now I'm focused on integrating backends with large language models (LLMs) to add intelligent features — prompt pipelines, embeddings search, and safe inference flows.<br><br>🤝 I’m looking to collaborate on<br>Full-stack projects that combine modern web frontends with LLM-enabled backends: chat assistants, docs/knowledge search, developer tools, analytics dashboards, and automation workflows.<br><br>🤝‍🤝 I’m looking for help with<br>Mentorship or collaboration on backend architecture for LLMs (scaling inference, prompt/versioning, cost control), and best practices for securing model APIs and managing private data.<br><br>🌱 I’m currently learning<br>Python backend ecosystems — Django, FastAPI, and Flask — to complement my MERN experience and build more robust API layers and ML/MLops integrations.<br><br>💬 Ask me about<br><br>Building full-stack apps (React + Node/Express)<br><br>Integrating LLMs: embeddings, retrieval-augmented generation, prompt design<br><br>Deploying APIs (containerization, CI/CD, basic infra)<br><br>Practical tips for frontend UX with AI features<br><br>⚡ Fun fact<br>I love to read books and code — I’ll usually have one novel and one side-project going at any time.
