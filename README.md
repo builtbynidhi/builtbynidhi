@@ -1,13 +1,14 @@
 <h2> Hi, I'm nidhii! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 I'm a MERN stack developer who loves building full-stack applications and integrating backends with LLMs. I enjoy creating smart features like RAG search, prompt pipelines, and AI-powered user experiences.
 
-🔭 Currently working on: MERN + LLM-powered apps  
-🤝 Looking to collaborate on: AI assistants, dashboards, and automation tools  
-🌱 Learning: Python + Django, FastAPI & Flask  
-💬 Ask me about: Full-stack dev, LLM integration, deployment basics  
-⚡ Fun fact: I love reading books and coding — always doing both!
+🔭 Currently working on: **MERN + LLM-powered apps**  
+🤝 Looking to collaborate on: **AI assistants, dashboards, automation tools**  
+🌱 Learning: **Python + Django, FastAPI & Flask**  
+💬 Ask me about: **Full-stack dev, LLM integration, deployment basics**  
+⚡ Fun fact: *I love reading books and coding — always doing both!*
 
 ---
 
@@ -22,7 +23,6 @@ const nidhii = {
   challenge: "Building AI-integrated full-stack apps"
 }
 
------
 
 # 💫 About Me:
 <br><br>🔭 I’m currently working on<br>I build production-ready web apps using the MERN stack (MongoDB, Express, React, Node). Right now I'm focused on integrating backends with large language models (LLMs) to add intelligent features — prompt pipelines, embeddings search, and safe inference flows.<br><br>🤝 I’m looking to collaborate on<br>Full-stack projects that combine modern web frontends with LLM-enabled backends: chat assistants, docs/knowledge search, developer tools, analytics dashboards, and automation workflows.<br><br>🤝‍🤝 I’m looking for help with<br>Mentorship or collaboration on backend architecture for LLMs (scaling inference, prompt/versioning, cost control), and best practices for securing model APIs and managing private data.<br><br>🌱 I’m currently learning<br>Python backend ecosystems — Django, FastAPI, and Flask — to complement my MERN experience and build more robust API layers and ML/MLops integrations.<br><br>💬 Ask me about<br><br>Building full-stack apps (React + Node/Express)<br><br>Integrating LLMs: embeddings, retrieval-augmented generation, prompt design<br><br>Deploying APIs (containerization, CI/CD, basic infra)<br><br>Practical tips for frontend UX with AI features<br><br>⚡ Fun fact<br>I love to read books and code — I’ll usually have one novel and one side-project going at any time.
