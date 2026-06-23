@@ -46,3 +46,12 @@ Full-Stack Software Engineer specializing in building production-grade web appli
 
 nidhikumari.professional@gmail.com
 Agra, Uttar Pradesh, India
+
+
+---
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=builtbynidhi&layout=compact&theme=default&hide_border=true&langs_count=8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=builtbynidhi&show_icons=true&theme=default&hide_border=true&count_private=true)
