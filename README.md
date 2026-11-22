@@ -1,7 +1,7 @@
 <h1 align="center">Nidhi Kumari</h1>
 
 <p align="center">
-  <b>Software engineer building LLM systems that flaunts gracefully, and the full-stack products around them.</b><br/>
+  <b>Software engineer building reliable LLM systems and the full-stack products around them.</b><br/>
   RAG · bounded agents · async AI pipelines · React / Node.js / Postgres
 </p>
 
