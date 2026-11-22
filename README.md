@@ -20,8 +20,8 @@ Software Development Engineer with 2+ years of experience shipping production we
 
 | Project | What it is | Stack |
 |---|---|---|
-| [MealMind](https://github.com/builtbynidhi/MealMind) ([live](https://meal-mind-ve.vercel.app)) | AI meal planner: RAG over a recipe knowledge base, Gemini 2.5 Flash with automatic Groq failover, Supabase Auth + RLS, prompt-injection protection | Next.js, TypeScript, Supabase, pgvector |
 | [triage-agent](https://github.com/builtbynidhi/triage-agent) | Bounded AI agent that triages support tickets and drafts policy-grounded replies, with a human in the loop | TypeScript |
+| [Shubhmilan-AI](https://github.com/builtbynidhi/Shubhmilan-AI) | AI-powered biodata, kundli and palm-reading platform with RAG retrieval, Razorpay payments and PDF generation | React, TypeScript, Vite, Neon Postgres, serverless API |
 | [creator-board-app](https://github.com/builtbynidhi/creator-board-app) ([live](https://creator-board-app-cfp3.vercel.app/)) | Job board with AI-powered job posting | JavaScript, Vercel |
 
 ## Tech Stack
