@@ -1,57 +1,44 @@
-# Nidhi Kumari — Full-Stack Engineer
+# Hi, I'm Nidhi Kumari 👋
 
-**MERN Stack · LLM Integration · Python Backends**
+**Software Development Engineer · Full-Stack (React, Node.js) · AI/LLM Applications · System Design**
+
+📍 Bengaluru, India (open to remote / Gurugram) · 📫 [nidhikumari.professional@gmail.com](mailto:nidhikumari.professional@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/nidhi6669)
 
 ---
 
 ## About
 
-Full-Stack Software Engineer specializing in building production-grade web applications and AI-integrated systems. I work across the full stack — React/Next.js frontends, Node.js/Express APIs, and Python backends — with a focus on shipping reliable, scalable products. Currently deepening expertise in LLM-powered features: retrieval-augmented generation (RAG), prompt engineering, and inference pipelines.
+Software Development Engineer with 2+ years of experience shipping production web applications across EdTech and creator-commerce. I build with React.js, Next.js, Node.js, PostgreSQL and MongoDB, and I deliver LLM features end to end: RAG pipelines (pgvector), multi-provider model fallback, streaming responses and asynchronous AWS pipelines. I apply system design fundamentals (scalability, caching, queues, API design) to keep services reliable and secure, and I enjoy mentoring B.Tech engineering students.
 
----
+## Experience
 
-## Technical Stack
+- **Software Development Engineer, Story Commerce** (Dec 2025 – Present): influencer-campaign platform with a Claude-powered assistant (60% faster campaign setup), automated creator-video verification pipeline, async AWS + Bedrock video-processing pipeline.
+- **Software Development Engineer, Newton School** (Dec 2024 – Nov 2025): AI tool that evaluates GitHub projects for 600+ students; Node.js/Express APIs; mentored B.Tech students.
+- **Software Development Engineer, Scholastic Being** (Dec 2023 – Dec 2024): LMS modules in React, Node.js and MongoDB (+20% platform engagement); reusable React component library.
 
-**Frontend:** JavaScript (ES6+), React, Next.js, HTML5, CSS3, Tailwind CSS
+## Featured Projects
 
-**Backend:** Node.js, Express.js, Python, FastAPI, Flask, Django
+| Project | What it is | Stack |
+|---|---|---|
+| [MealMind](https://github.com/builtbynidhi/MealMind) ([live](https://meal-mind-ve.vercel.app)) | AI meal planner: RAG over a recipe knowledge base, Gemini 2.5 Flash with automatic Groq failover, Supabase Auth + RLS, prompt-injection protection | Next.js, TypeScript, Supabase, pgvector |
+| [triage-agent](https://github.com/builtbynidhi/triage-agent) | Bounded AI agent that triages support tickets and drafts policy-grounded replies, with a human in the loop | TypeScript |
+| [creator-board-app](https://github.com/builtbynidhi/creator-board-app) ([live](https://creator-board-app-cfp3.vercel.app/)) | Job board with AI-powered job posting | JavaScript, Vercel |
 
-**Databases:** MongoDB, Mongoose, PostgreSQL
+## Tech Stack
 
-**AI / ML:** LLM integration, RAG pipelines, OpenAI API, LangChain, vector embeddings
+**Languages:** JavaScript (ES6+), TypeScript, Python, SQL  
+**Frontend:** React.js, Next.js (SSR), Redux, Context API, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, WebSockets, SSE, serverless, queue-based processing, Nginx  
+**Databases:** PostgreSQL (Supabase), MongoDB, pgvector, Row-Level Security  
+**AI / LLM:** RAG, embeddings, semantic search, OpenAI / Claude / Gemini / Groq APIs, LangChain, prompt engineering, prompt-injection defense, AssemblyAI, OpenCV, FFmpeg  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, Bedrock), Docker, GitHub Actions, Vercel, Cloudflare  
+**Security & Practices:** JWT, OAuth 2.0, RBAC, OWASP Top 10, Git, Agile/Scrum
 
-**DevOps & Tools:** Git, GitHub Actions, Docker, REST APIs, CI/CD, Postman
+## Education & Certification
 
----
+- MCA, Jain University (2023 – 2025) · B.Sc., Dayalbagh Educational Institute (2019 – 2022)
+- Claude Code in Action, Anthropic
 
 ## Currently
 
-- **Building:** Production-ready MERN applications with LLM-powered backends
-- **Learning:** Python backend ecosystems (FastAPI, Django) and MLOps fundamentals
-- **Open to:** Collaborating on AI-enabled web tools, developer dashboards, and automation workflows
-- **Ask me about:** Full-stack architecture, LLM integration patterns, API design, deployment workflows
-
----
-
-## Interests & Focus Areas
-
-- Designing clean, maintainable REST API architectures
-- Integrating large language models into user-facing products (chat, search, summarization)
-- Building developer tooling and internal dashboards
-- Exploring backend performance optimization and cost-efficient inference
-
----
-
-## Connect
-
-nidhikumari.professional@gmail.com
-Agra, Uttar Pradesh, India
-
-
----
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=builtbynidhi&layout=compact&theme=default&hide_border=true&langs_count=8)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=builtbynidhi&show_icons=true&theme=default&hide_border=true&count_private=true)
+Seeking SDE, Full-Stack, AI/LLM Engineer or Technical SME/Trainer roles. Ask me about RAG systems, LLM integration patterns, API design and system design.
