@@ -52,7 +52,7 @@ flowchart LR
 | | Project | What makes it interesting |
 |---|---|---|
 | 🛡️ | [**triage-agent**](https://github.com/builtbynidhi/triage-agent) | A support-ticket agent that drafts policy-grounded replies and refuses to act without a human. Built to be measured. |
-| 🔮 | [**Shubhmilan-AI**](https://github.com/builtbynidhi/Shubhmilan-AI) | Biodata, kundli and palm-reading platform: RAG retrieval, serverless APIs on Neon Postgres, Razorpay payments, PDF generation. |
+| 🔮 | [**Shubhmilan-AI**](https://github.com/builtbynidhi/Shubhmilan-AI) · [live](https://shubhmilan-ai.vercel.app) | Biodata, kundli and palm-reading platform: RAG retrieval, serverless APIs on Neon Postgres, Razorpay payments, PDF generation. |
 | 💼 | [**creator-board-app**](https://github.com/builtbynidhi/creator-board-app) · [live](https://creator-board-app-cfp3.vercel.app/) | Job board where AI writes the job posting for you. |
 
 ## Built in production
