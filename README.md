@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://nidhi-portfolio-brown.vercel.app"><b>Portfolio</b></a> ·
   <a href="https://linkedin.com/in/nidhi6669">LinkedIn</a> ·
   <a href="mailto:nidhikumari.professional@gmail.com">Email</a> ·
   Bengaluru, India
